@@ -138,6 +138,7 @@ table {
     border: 1px solid #f1c40f;
     overflow-x: auto;
     display: block;
+    box-shadow: 0 5px 15px #f1c40f;
 }
 
 th, td {
