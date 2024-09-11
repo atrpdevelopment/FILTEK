@@ -311,6 +311,12 @@ li {
     p, ul {
         font-size: 1em;
     }
+
+    .icon p {
+        text-transform: uppercase;
+        font-weight: bold;
+        margin-top: -100px;
+    }
 }
 
 @media (max-width: 576px) {
@@ -334,6 +340,12 @@ li {
 
     .details {
         padding: 10px;
+    }
+
+    .icon p {
+        text-transform: uppercase;
+        font-weight: bold;
+        margin-top: -80px;
     }
 }
 
